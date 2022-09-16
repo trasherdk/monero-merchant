@@ -3,3 +3,6 @@ dist
 node_modules
 *.sqlite
 test-report.html
+.env*
+!.env-example*
+!.env-original*
